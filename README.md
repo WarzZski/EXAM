@@ -1,5 +1,5 @@
 # EXAM
 # Name: Gerswin C. Ravelo Jr. 
-# Section: Computer Science 
+# Course: Computer Science 
 # Subject: Software Engineering
-# Section: Bscs
+# Section: BSCS-31
